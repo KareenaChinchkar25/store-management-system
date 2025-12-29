@@ -291,10 +291,11 @@ npm run dev
 **Kareena Chinchkar**  
 🎓 B.Tech Computer Science & Engineering  
 📧 Email: [kareenachinchkar@gmail.com](mailto:kareenachinchkar@gmail.com)  
-🔗 GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)  
-💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/your-linkedin-username/)
+🔗 GitHub: [https://github.com/your-github-username](https://github.com/KareenaChinchkar25)  
+💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/kareenasdevtrail25/)
 
 ---
+
 
 
 

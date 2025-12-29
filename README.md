@@ -53,25 +53,39 @@ An integrated platform that:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
-- React
-- Vite
-- HTML5, CSS3, JavaScript (ES6+)
+### Frontend
+- **React.js** – Component-based UI development
+- **Vite** – Fast build tool and development server
+- **HTML5** – Semantic markup
+- **CSS3** – Custom styling (no CSS frameworks used)
+- **JavaScript (ES6+)** – Modern JavaScript features
 
-**Backend**
-- Node.js
-- Express.js
+### Backend
+- **Node.js** – JavaScript runtime environment
+- **Express.js** – RESTful API framework
 
-**Database**
-- Prisma ORM
-- MySQL / PostgreSQL
+### Database
+- **PostgreSQL** – Relational database
+- **Prisma ORM** – Type-safe database access and migrations
 
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
+### Authentication & Authorization
+- **JWT (JSON Web Tokens)** – Secure authentication
+- **bcrypt** – Password hashing
+- **Role-Based Access Control (RBAC)** – Admin, Manager, Employee
+
+### APIs & Services
+- **OpenStreetMap (Nominatim API)** – Pincode to latitude/longitude conversion
+- **Haversine Formula** – Distance calculation for nearest store search
+
+### Tools & Utilities
+- **Git & GitHub** – Version control
+- **Postman** – API testing and documentation
+- **VS Code** – Development environment
+- **Axios** – HTTP client for frontend API calls
+- **Nodemon** – Backend auto-reload during development
+
 
 ---
 
@@ -281,5 +295,6 @@ npm run dev
 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/your-linkedin-username/)
 
 ---
+
 
 
